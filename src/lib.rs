@@ -196603,7 +196603,6 @@ pub fn is_even_u16(n: u16) -> bool {
     } 
     if n == 65534 {
         return true;
-    } else {
-        return false;
     }
+    return false;
 }
