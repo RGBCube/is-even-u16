@@ -1,0 +1,10 @@
+*
+
+!src/
+
+!.gitignore
+
+!*.lock
+!*.md
+!*.rs
+!*.toml
