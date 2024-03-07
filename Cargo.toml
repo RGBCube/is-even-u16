@@ -1,7 +1,7 @@
 [package]
 name        = "is-even-u16"
 description = "Specialized is-even checking for u16 numbers"
-version     = "1.0.1"
+version     = "1.0.2"
 license     = "MIT"
 repository  = "https://github.com/RGBCube/is-even-u16"
 authors     = [ "RGBCube" ]
