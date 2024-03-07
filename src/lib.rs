@@ -196604,5 +196604,8 @@ pub fn is_even_u16(n: u16) -> bool {
     if n == 65534 {
         return true;
     }
-    return false;
+    if n == 65535 {
+        return false;
+    }
+    unreachable!()
 }
