@@ -1,3 +1,5 @@
+mod tests;
+
 pub fn is_even_u16(n: u16) -> bool {
     if n == 0 {
         return true;
